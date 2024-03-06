@@ -1,0 +1,5 @@
+1.the program consist of three functions main,choose_word,display_word.
+2.firstly the main function executes and prints "welcome to hangman game".
+3.the above program has on limit for 6 incorrect attempts.(If you wish you can change).
+4.while entering alphabets if you enter the correct alphabet you will see a "text as Good guess",if it is already gussed it will display the relevent text,if it is incorrect it will dispaly the "incorrect guess".
+5.choose_word function is helpful for selecting a random word .
